@@ -8,3 +8,4 @@ NAČRT DELA
 3. Primerjava aretacij po spolu,rasi in starosti
 4. Ocena števila aretacij v prihodnosti
 
+Pripravil: Gregor Kuhelj
