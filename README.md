@@ -1,11 +1,11 @@
-# SteviloAretacijVZDA
-Analiziral bom število aretacij po državah v Z.D.A. Primerjal bom številke aretacij med posameznii državami,primerjal število aretacij glede na spol, raso ter starost.
+#Število aretacij v ZDA
+Analiziral bom število aretacij po državah v ZDA med leti 1980 in 2019. Primerjal bom število aretacij med rasami, mladoletnimi in polnoletnimi, 
 
 NAČRT DELA
 
-1. Pridobitev podatkov s pomočjo Wolfram Data Repository-a
-2. Časovna primerjava aretacij v ZDA
-3. Primerjava aretacij po spolu,rasi in starosti
-4. Ocena števila aretacij v prihodnosti
-
+1. Pridobitev podatkov s strani https://usafacts.org/data/topics/security-safety/crime-and-justice/crime-and-police/arrests/
+2. Primerjava števila mladoletnih in polnoletnih
+3. Primerjava števila aretacij glede na raso
+4. Ocena naraščanja/padanja števila aretacij v prihodnje
+5. Aplikacija v oblaku
 Pripravil: Gregor Kuhelj
