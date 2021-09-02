@@ -10,7 +10,7 @@ Analiziral bom število aretacij po državah v ZDA med leti 1980 in 2019. Primer
 5. Aplikacija v oblaku
 
 ### Posnetek predstavitve:
--link
+https://www.youtube.com/watch?v=CEFNBkey_bQ
 
 ### Povezava do aplikacije:
 https://www.wolframcloud.com/obj/375f0d4a-ac18-44b6-8de2-684315c36a65
